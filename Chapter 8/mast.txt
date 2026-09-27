@@ -1,2 +1,0 @@
-hello everyone whats up
-This is the file that is opened by the program (or you can say code file name) File_basics.py
